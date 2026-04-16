@@ -30,15 +30,6 @@ I work mostly on backend services, APIs, and distributed systems, with a strong 
 
 ---
 
-## 🧱 What I Care About
-
-* Clean Architecture & Domain-Driven Design (DDD)
-* Writing maintainable and testable code
-* Building scalable APIs
-* Performance optimization
-
----
-
 ## 📌 Projects
 
 > Olive HR System
