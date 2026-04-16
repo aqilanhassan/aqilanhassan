@@ -18,12 +18,6 @@ I work mostly on backend services, APIs, and distributed systems, with a strong 
 * Python (FastAPI)
 * Go (Gin)
 
-
-### 🎨 Frontend
-* JavaScript
-* React
-
-
 ### 🗄️ Databases
 
 * PostgreSQL
